@@ -1,0 +1,8 @@
+{
+  "body": "{\"customerName\":\"Magnesia\",\"contractDetails\":\"Prezzo dimezzato\", \"billingDetails\": [\"S3\", \"Cognito\", \"Lambda\"]}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}

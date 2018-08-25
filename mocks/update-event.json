@@ -1,0 +1,11 @@
+{
+  "body": "{\"contractDetails\":\"Prezzo pieno\"}",
+  "pathParameters": {
+    "id": "4998ac90-9f07-11e8-9347-a148aa340e2c"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
